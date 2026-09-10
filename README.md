@@ -1,3 +1,6 @@
+<!--
+
+
 #  Hi 👋, SOURAV HATI
 **C++ | MERN Stack Dev | DSA Enthusiast | AI & Hackathon Projects | MVP Builder**
 
@@ -43,5 +46,192 @@ Add commentMore actions
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sourav6102003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+-->
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Sourav</h1>
+<h3 align="center">Full-Stack Security Tooling Developer | Building Automation for Bug Bounty Hunters</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Building+the+Bug+Bounty+Automation+Platform;Python+%7C+FastAPI+%7C+React+%7C+Docker;Automating+Recon%2C+One+Pipeline+at+a+Time." alt="Typing SVG" />
+</p>
+
+---
+
+### 🖤 About Me
+
+- 🔭 Currently building the **Bug Bounty Automation Platform** — a full-stack recon automation tool
+- 🛠️ Stack: `Python` `FastAPI` `React` `PostgreSQL` `Docker` `Celery` `Redis`
+- 🔍 Integrating a 7-stage recon pipeline: `Nmap` → `Subfinder` → `Amass` → `Nuclei` → `httpx` → `Katana` → `ffuf`
+- 📡 Working on scheduler, dashboard, notifications (Slack/Discord/in-app), and automated reporting
+- 🌱 Currently polishing the React frontend and API routers
+- 💡 Interested in offensive security, automation, and developer tooling
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> Setup instructions for the snake game are at the bottom of this file.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=000000&text_color=333333&bg_color=FFFFFF" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6" width="48%" />
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,redis,git,linux,bash,nginx&theme=dark" />
+</p>
+
+---
+
+### 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/bug-bounty-automation-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=bug-bounty-automation-platform&theme=github_dark&hide_border=true&title_color=000000&text_color=333333&bg_color=FFFFFF" />
+  </a>
+</p>
+
+**Bug Bounty Automation Platform** — an end-to-end recon automation platform chaining industry-standard tools (Nmap, Subfinder, Amass, Nuclei, httpx, Katana, ffuf) into a single pipeline, with a scheduler, live dashboard, multi-channel notifications, and automated report generation.
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true" />
+</p>
+
+---
+
+### ✒️ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=flat" alt="profile views" />
+</p>
+
+---
+
+<!--
+========================================
+HOW TO USE THIS FILE — STEP BY STEP
+========================================
+
+STEP 1 — Create the special repository
+  1. Go to github.com/new
+  2. Repository name MUST exactly match your GitHub username (e.g. if your
+     username is "sourav-dev", repo name must be "sourav-dev")
+  3. Make it Public
+  4. Check "Add a README file"
+  5. Create repository
+  GitHub will show a banner: "You've discovered a secret" — this confirms
+  it's your profile repo. Whatever README.md is in this repo now shows on
+  your GitHub profile page.
+
+STEP 2 — Replace placeholders
+  Find and replace everywhere:
+    YOUR_USERNAME   -> your GitHub username
+    YOUR_LINKEDIN   -> your LinkedIn handle
+    YOUR_EMAIL      -> your email
+    YOUR_TWITTER    -> your Twitter/X handle
+  Also update the repo link under "Featured Project" to your real repo name.
+
+STEP 3 — Upload this file
+  Option A (web): open your USERNAME/USERNAME repo -> click README.md ->
+    pencil (edit) icon -> paste this content -> Commit changes.
+  Option B (git):
+    git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.git
+    cd YOUR_USERNAME
+    (copy this README.md into the folder)
+    git add README.md
+    git commit -m "Update profile README"
+    git push
+
+STEP 4 — Enable the Snake Game (contribution graph animation)
+  1. In your USERNAME/USERNAME repo, go to Settings -> Actions -> General
+     -> under "Workflow permissions" select "Read and write permissions" -> Save
+  2. Create a file at: .github/workflows/snake.yml with this content:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 */6 * * *"
+       push:
+         branches: [ main ]
+       workflow_dispatch: {}
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - name: Generate snake game SVG
+             uses: Platane/snk@v3
+             with:
+               github_user_name: ${{ github.repository_owner }}
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - name: Push output to output branch
+             uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Commit this file. Go to the "Actions" tab and run the "Generate Snake"
+     workflow manually once (workflow_dispatch).
+  4. After it finishes, a new "output" branch appears with the SVG files —
+     the image link in this README already points to it.
+
+STEP 5 — Verify
+  Go to github.com/YOUR_USERNAME (your profile page). You should see this
+  README rendered with stats, snake animation, quote, and badges.
+
+STEP 6 — Customize further (optional)
+  - Change theme= parameters on stat cards to: radical, tokyonight, dracula,
+    gruvbox, github_dark, github_dark_dashed, transparent, etc.
+  - Add more sections: certifications, blog posts (blog-post-workflow),
+    WakaTime coding time stats, or a visitor map.
+  - Keep the black-and-white aesthetic by keeping bg_color=FFFFFF and
+    text/icon colors at 000000/333333 across all shields/stats URLs above.
+========================================
+-->
+
 
 
